@@ -97,7 +97,7 @@ FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch: @ 82011A5
 	.string "This is really going to help my research!$"
 
 FallarborTown_CozmosHouse_Text_CrushedWithDisappointment: @ 8201212
-	.string "Prof. Cozma: Oh, but…\n"
+	.string "Prof. Cozmo: Oh, but…\n"
 	.string "I'm crushed with disappointment…$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite: @ 8201249

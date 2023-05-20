@@ -1398,7 +1398,7 @@ PetalburgCity_Gym_Text_PleaseComeWithMe: @ 8206377
 	.string "I have something I want you to have.$"
 
 PetalburgCity_Gym_Text_LetMeBorrowPlayer: @ 82063CA
-	.string "Normal, you don't mind, do you?\p"
+	.string "Norman, you don't mind, do you?\p"
 	.string "Let me borrow your {PLAYER}{KUN} for\n"
 	.string "a minute or two.$"
 
